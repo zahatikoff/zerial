@@ -1,0 +1,14 @@
+.{
+    .name = .zerial,
+    .minimum_zig_version = "0.14.0",
+    .fingerprint = 0xf47b9814012708e1,
+
+    .version = "0.0.0",
+
+    .paths = .{
+        "LICENSE",
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
